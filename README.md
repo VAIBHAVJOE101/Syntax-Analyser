@@ -42,3 +42,5 @@
   * Run command `./compile input_file`
   
 ---
+### Output Screenshot
+![Output](Output_SS.png)
